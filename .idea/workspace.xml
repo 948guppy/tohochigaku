@@ -16,23 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dc147fb-ddb8-4fec-bd7b-ecffbeb525a6" name="Default Changelist" comment="[Add]README.mdの追加">
-      <change afterPath="$PROJECT_DIR$/activity/group/geography.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activity/group/rocket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activity/group/weather.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/esc_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/area/placer_gold.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activity/group/astronomy.html" beforeDir="false" afterPath="$PROJECT_DIR$/activity/group/astronomy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/activity/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/area/exhibition.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/area/exhibition.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/area/exprience.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/area/exprience.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/area/planetarium.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/area/planetarium.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/covid.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/covid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/tohofes.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/tohofes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6dc147fb-ddb8-4fec-bd7b-ecffbeb525a6" name="Default Changelist" comment="[Add]サブページの追加" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599837801989</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[Add]サブページの追加">
+      <created>1599851123684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599851123684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[Add].gitignoreの追加" />
     <MESSAGE value="[Add]README.mdの追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Add]README.mdの追加" />
+    <MESSAGE value="[Add]サブページの追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Add]サブページの追加" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1599834554520">
