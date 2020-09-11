@@ -16,7 +16,19 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dc147fb-ddb8-4fec-bd7b-ecffbeb525a6" name="Default Changelist" comment="[Add]サブページの追加" />
+    <list default="true" id="6dc147fb-ddb8-4fec-bd7b-ecffbeb525a6" name="Default Changelist" comment="[Add]サブページの追加">
+      <change afterPath="$PROJECT_DIR$/activity/programs/history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/programs/interplanetary_flight.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/programs/night_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/programs/today.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/area/buggy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/area/mythology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity/group/rocket.html" beforeDir="false" afterPath="$PROJECT_DIR$/activity/group/rocket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/activity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/area/earthquake.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/area/earthquake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/tohofes.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/tohofes.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,10 +66,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\948guppy\WebstormProjects\tohochigaku\activity\group" />
+      <recent name="C:\Users\948guppy\WebstormProjects\tohochigaku\news\area" />
       <recent name="C:\Users\948guppy\WebstormProjects\tohochigaku\activity" />
       <recent name="C:\Users\kyuko\WebstormProjects\tohochigaku\news" />
       <recent name="C:\Users\kyuko\WebstormProjects\tohochigaku\assets\images" />
-      <recent name="C:\Users\kyuko\WebstormProjects\tohochigaku\assets" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript デバッグ.astronomy.html">
@@ -118,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599851123684</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[Add]サブページの追加">
+      <created>1599851191716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599851191716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
